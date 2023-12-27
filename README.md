@@ -1,5 +1,3 @@
-Neeraj Manivarnan |
-B.Tech | Computer Science and Engineering (2021-25) | TKM College Of Engineering
 
 # 💫 About Me:
 I'm currently studying at TKM College Of Engineering<br>I'm looking to collaborate on open source projects<br>I'm currently learning Spring & Spring Boot<br>
