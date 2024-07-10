@@ -1,10 +1,10 @@
 <!-- 💫 About Me: -->
 <h2 align="center">💫 About Me:</h2>
 <p align="center">
-  I'm currently studying at TKM College Of Engineering<br>
-  I'm looking to collaborate on open source projects<br>
-  I'm currently learning to implement micro service architecture using the springboot<br>
-  Devops enthusiast
+  Studentat TKM College Of Engineering<br>
+ Exploriing open source projects<br>
+  DevOps and Cloud<br>
+  
 </p>
 
 <!-- 🌐 Socials: -->
