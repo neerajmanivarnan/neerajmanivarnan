@@ -2,7 +2,7 @@
 <h2 align="center">💫 About Me:</h2>
 <p align="center">
   Student at TKM College Of Engineering<br>
- Exploriing open source projects<br>
+ Exploring open source projects<br>
   DevOps and Cloud<br>
   
 </p>
