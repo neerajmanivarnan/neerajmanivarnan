@@ -1,7 +1,7 @@
 <!-- 💫 About Me: -->
 <h2 align="center">💫 About Me:</h2>
 <p align="center">
-  Studentat TKM College Of Engineering<br>
+  Student at TKM College Of Engineering<br>
  Exploriing open source projects<br>
   DevOps and Cloud<br>
   
