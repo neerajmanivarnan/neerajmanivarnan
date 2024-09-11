@@ -4,10 +4,12 @@
 ###
 
 <div align="left">
-  <a href="neerajmanivarnan@gmail.com" target="_blank">
+  <a href="mailto:neerajmanivarnan@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=7a7676&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="gmail logo"  />
   </a>
+  <a href="https://linkedin.com/in/neerajmanivarnan" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="linkedin logo"  />
+  </a>
 </div>
 
 ###
