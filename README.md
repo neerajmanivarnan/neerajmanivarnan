@@ -5,10 +5,10 @@
 
 <center> 
   
-AWS Certified Cloud Practitioner<br>
-TKM College Of Engineering<br>
-Open Source Development<br>
-DevOps and Cloud<br>
+- AWS Certified Cloud Practitioner<br>
+- TKM College Of Engineering<br>
+- Open Source Development<br>
+- DevOps and Cloud<br>
 
 </center>
   
