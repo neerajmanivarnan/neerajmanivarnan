@@ -60,7 +60,7 @@
 <!-- 🌐 Socials: -->
 <div style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; margin: 10px; background-color: #f9f9f9;">
   <h3 align="left"><u>Socials</u></h3>
-  <p align="center">
+  <p align="left">
     <a href="https://instagram.com/neergasm"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"/></a>
     <a href="https://linkedin.com/in/neeraj-manivarnan-91033126a"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
     <a href="https://medium.com/@neerajmanivarnan666"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge"/></a>
@@ -71,7 +71,7 @@
 
 <!-- Visitor Count -->
 <div style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; margin: 10px; background-color: #f9f9f9;">
-  <p align="center">
+  <p align="left">
     <a href="https://visitcount.itsvg.in">
       <img src="https://visitcount.itsvg.in/api?id=neerajmanivarnan&icon=0&color=0?style=for-the-badge">
     </a>
