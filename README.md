@@ -3,10 +3,10 @@
 <h3 align="center"> <u> About Me</u></h3>
 <p align="center">
 
-AWS Certified Cloud Practitioner
-TKM College Of Engineering
-Open Source Development
-DevOps and Cloud
+AWS Certified Cloud Practitioner<br>
+TKM College Of Engineering<br>
+Open Source Development<br>
+DevOps and Cloud<br>
   
 
 </p>
