@@ -46,13 +46,7 @@ DevOps and Cloud<br>
   <img src="https://img.shields.io/badge/GNU Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="25" alt="bash logo"  />
 </div>
 
-<!-- 📊 GitHub Stats: -->
-<h3 align="center"><u>GitHub Stats</u></h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neerajmanivarnan&theme=react&hide_border=true&include_all_commits=false&count_private=false"/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=neerajmanivarnan&theme=react&hide_border=true"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajmanivarnan&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
-</p>
+
 
 
 <!-- 🌐 Socials: -->
