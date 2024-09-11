@@ -15,6 +15,13 @@
 
 </p>
 
+<p align="center">
+  AWS Certified Cloud Practitioner<br>
+  TKM College Of Engineering<br>
+  Open Source Development<br>
+  DevOps and Cloud<br>
+</p>
+
 
 <!-- 💻 Tech Stack: -->
 <h3 align="center"><u>I code with</u> </h3>
