@@ -1,7 +1,7 @@
 <!-- 💫 About Me: -->
 <div style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; margin: 10px; background-color: #f9f9f9;">
   <h3 align="center"> <u> About Me</u> </h3>
-  <p align="center">
+  <p align="center" style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; background-color: #f9f9f9;">
     AWS Certified Cloud Practitioner<br>
     TKM College Of Engineering<br>
     Open Source Development<br>
