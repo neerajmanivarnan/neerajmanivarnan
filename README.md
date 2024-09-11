@@ -1,25 +1,19 @@
+
 <!-- 💫 About Me: -->
-<h2 align="center">💫 About Me:</h2>
+<h3 align="center"> <u> About Me</u></h3>
 <p align="center">
-  Student at TKM College Of Engineering<br>
- Exploring open source projects<br>
-  DevOps and Cloud<br>
+
+AWS Certified Cloud Practitioner
+TKM College Of Engineering
+Open Source Development
+DevOps and Cloud
   
 
 </p>
 
-<!-- 🌐 Socials: -->
-<h2 align="center">🌐 Socials:</h2>
-<p align="center">
-  <a href="https://instagram.com/neergasm"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/neeraj-manivarnan-91033126a"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
-  <a href="https://medium.com/@neerajmanivarnan666"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/neerajmanivarnan"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white"/></a>
-  <a href="https://x.com/neergasm"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white"/></a>
-</p>
 
 <!-- 💻 Tech Stack: -->
-<h2 align="center">💻 Tech Stack:</h2>
+<h3 align="center"><u>I code with</u> </h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white&style=for-the-badge" height="25" alt="vim logo"  />
   <img width="7" />
@@ -49,16 +43,29 @@
 </div>
 
 <!-- 📊 GitHub Stats: -->
-<h2 align="center">📊 GitHub Stats:</h2>
+<h3 align="center"><u>GitHub Stats</u></h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=neerajmanivarnan&theme=react&hide_border=true&include_all_commits=false&count_private=false"/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=neerajmanivarnan&theme=react&hide_border=true"/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajmanivarnan&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
 </p>
 
+
+<!-- 🌐 Socials: -->
+<h3 align="center"><u>Socials</u></h3>
+<p align="center">
+  <a href="https://instagram.com/neergasm"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://linkedin.com/in/neeraj-manivarnan-91033126a"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://medium.com/@neerajmanivarnan666"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://stackoverflow.com/users/neerajmanivarnan"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://x.com/neergasm"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge"/></a>
+</p>
+
 <!-- Visitor Count -->
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=neerajmanivarnan&icon=0&color=0">
+    <img src="https://visitcount.itsvg.in/api?id=neerajmanivarnan&icon=0&color=0?style=for-the-badge">
   </a>
 </p>
+
+
