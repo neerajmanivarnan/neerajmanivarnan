@@ -26,11 +26,11 @@
 
 ###
 
-<h3 align="left">Blog posts</h3>
+<h3 align="left"><u>Blog posts</u></h3>
 
 ### 
 
-- <a href="https://medium.com/@neerajmanivarnan/running-jenkins-as-a-docker-container-97d723f65b3b">Running jenkins as a docker container.</a>
+- <a href="https://medium.com/@neerajmanivarnan/running-jenkins-as-a-docker-container-97d723f65b3b" target="_blank">Running jenkins as a docker container.</a>
 
 ###
 
