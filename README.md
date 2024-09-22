@@ -26,6 +26,9 @@
 
 ###
 
+<h3 align="left">Blog posts</h3>
+- [ Running Jenkins as a docker container ](https://medium.com/@neerajmanivarnan/running-jenkins-as-a-docker-container-97d723f65b3b)
+
 <h3 align="left">I code with</h3>
 
 
