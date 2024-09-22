@@ -26,7 +26,7 @@
 
 ###
 
-<h3 align="left"><u>Blog posts</u></h3>
+<h3 align="left">Blog posts</h3>
 
 ### 
 
