@@ -63,7 +63,7 @@
   <p align="left">
     <a href="https://instagram.com/neergasm"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge"/></a>
     <a href="https://linkedin.com/in/neeraj-manivarnan-91033126a"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
-    <a href="https://medium.com/@neerajmanivarnan666"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge"/></a>
+    <a href="https://medium.com/@neerajmanivarnan"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white&style=for-the-badge"/></a>
     <a href="https://stackoverflow.com/users/19263625/neerajmanivarnan"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge"/></a>
     <a href="https://x.com/neergasm"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge"/></a>
   </p>
