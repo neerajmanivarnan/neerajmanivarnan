@@ -31,6 +31,7 @@
 ### 
 
 - <a href="https://medium.com/@neerajmanivarnan/running-jenkins-as-a-docker-container-97d723f65b3b" target="_blank">Running jenkins as a docker container.</a>
+- <a href="https://medium.com/@neerajmanivarnan/aws-infrastructure-provisioning-using-terraform-14206a93f0ad" target="_blank">AWS Infrastructure Provisioning using Terraform.</a>
 
 ###
 
