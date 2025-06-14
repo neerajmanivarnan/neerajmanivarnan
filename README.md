@@ -71,12 +71,12 @@
 </div>
 
 <!-- Visitor Count -->
-<div style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; margin: 10px; background-color: #f9f9f9;">
+<!--- <div style="border: 1px solid #ddd; border-radius: 10px; padding: 10px; margin: 10px; background-color: #f9f9f9;">
   <p align="center">
     <a href="https://visitcount.itsvg.in">
       <img src="https://visitcount.itsvg.in/api?id=neerajmanivarnan&icon=0&color=0?style=for-the-badge">
     </a>
   </p>
-</div>
+</div> --->
 
 
