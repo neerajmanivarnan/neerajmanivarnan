@@ -18,11 +18,9 @@
 
 ###
 
-
+- Software Engineer
 - AWS Certified Cloud Practitioner
 - TKM College Of Engineering
-- Open source development
-- DevOps and Cloud
 
 ###
 
